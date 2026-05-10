@@ -391,19 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a2rl-2025-abu-dhabi-with-our-monorace-algorithm-we-won-the-ai-vs-human-race-against-three-fpv-champions-plus-1st-in-speed-1st-in-drag-and-3rd-in-multi-drone",
-          title: 'A2RL 2025 (Abu Dhabi): with our MonoRace algorithm we won the AI-vs-Human race...',
-          description: "",
-          section: "News",},{id: "news-presenting-one-net-to-rule-them-all-domain-randomization-in-quadcopter-racing-across-different-platforms-at-icra-2025-in-atlanta-arxiv",
-          title: 'Presenting One Net to Rule Them All: Domain Randomization in Quadcopter Racing Across...',
-          description: "",
-          section: "News",},{id: "news-new-preprint-skydreamer-interpretable-end-to-end-vision-based-drone-racing-with-model-based-rl",
-          title: 'New preprint: SkyDreamer — Interpretable End-to-End Vision-Based Drone Racing with Model-Based RL.',
-          description: "",
-          section: "News",},{id: "news-a2rl-2026-abu-dhabi-tu-delft-mavlab-wins-the-multi-drone-race-with-our-world-model-based-pixel-to-action-skydreamer-policy-2nd-in-speed-3rd-in-ai-vs-human",
-          title: 'A2RL 2026 (Abu Dhabi): TU Delft MAVLab wins the Multi-Drone Race with our...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
