@@ -57,7 +57,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%72.%66%65%72%65%64%65@%74%75%64%65%6C%66%74.%6E%6C", "_blank");
+          window.open("mailto:%72%6F%62%69%6E%66%65%72%65%64%65%39%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -86,13 +86,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/robin-ferede", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
