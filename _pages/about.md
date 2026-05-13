@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in Aerospace Engineering at [TU Delft](https://www.tudelft.nl/), working with the [Micro Air Vehicle Laboratory (MAVLab)](https://mavlab.tudelft.nl/) on time-optimal quadcopter control. My research covers optimal control theory and (model-based) reinforcement learning, with a particular focus on closing the sim-to-real gap so that policies trained in simulation can fly real hardware at the limits of performance.
+I'm a PhD candidate in Aerospace Engineering at [TU Delft](https://www.tudelft.nl/), working with the [Micro Air Vehicle Laboratory (MAVLab)](https://mavlab.tudelft.nl/) on time-optimal quadcopter control under the supervision of Dr. Christophe De Wagter and Prof. Guido de Croon. My research covers optimal control theory and (model-based) reinforcement learning, with a particular focus on closing the sim-to-real gap so that policies trained in simulation can fly real hardware at the limits of performance.
 
 Most recently, I've been part of the TU Delft team at the [A2RL Autonomous Drone Race](https://a2rl.io/) in Abu Dhabi. In 2025 our **MonoRace** algorithm beat three FPV champions in the AI-vs-Human race and won both the Speed and Drag races. In 2026 we returned with **SkyDreamer**, a world-model-based pixel-to-action policy, and won the Multi-Drone Race.
 
