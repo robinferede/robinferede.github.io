@@ -215,6 +215,37 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Social (under profile picture) — compact sizing override
+.profile-social {
+  margin-top: 0.75rem;
+  text-align: left;
+
+  .contact-icons {
+    font-size: 1.5rem;
+
+    a {
+      margin-right: 0.6rem;
+
+      img {
+        width: 1.2rem;
+        height: 1.2rem;
+        margin-bottom: 0;
+      }
+
+      svg {
+        width: 1.4rem;
+        height: 1.4rem;
+        margin-bottom: 0;
+
+        image {
+          width: 1.4rem;
+          height: 1.4rem;
+        }
+      }
+    }
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;

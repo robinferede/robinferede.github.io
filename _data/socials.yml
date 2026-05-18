@@ -1,9 +1,9 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/cv.pdf
 email: robinferede97@gmail.com
 orcid_id: 0000-0001-5158-565X
 scholar_userid: JqQX1fAAAAAJ
 github_username: robinferede
 linkedin_username: robin-ferede
+research_gate_profile: Robin-Ferede

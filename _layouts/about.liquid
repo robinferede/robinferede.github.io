@@ -35,6 +35,11 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        {% if page.social %}
+          <div class="social profile-social">
+            <div class="contact-icons">{% social_links %}</div>
+          </div>
+        {% endif %}
       </div>
     {% endif %}
 
@@ -60,15 +65,6 @@ layout: default
     {% if page.publications %}
       <h2 style="margin-top: 3rem;">Publications</h2>
       {% include publications.liquid %}
-    {% endif %}
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
     {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
