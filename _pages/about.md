@@ -12,7 +12,7 @@ profile:
     <p>Faculty of Aerospace Engineering</p>
     <p>TU Delft, Delft, NL</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+publications: true # renders the full bibliography below the bio
 social: true # includes social icons at the bottom of the page
 
 announcements:
